@@ -1,0 +1,12 @@
+/* Webfont: MistyDomoBold */@font-face {
+    font-family: 'MistyDomo';
+    src: url('MistyDomoBold.eot'); /* IE9 Compat Modes */
+    src: url('MistyDomoBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('MistyDomoBold.woff') format('woff'), /* Modern Browsers */
+         url('MistyDomoBold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('MistyDomoBold.svg#MistyDomoBold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

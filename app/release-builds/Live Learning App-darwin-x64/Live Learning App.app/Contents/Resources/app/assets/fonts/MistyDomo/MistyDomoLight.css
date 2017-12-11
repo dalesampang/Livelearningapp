@@ -1,0 +1,12 @@
+/* Webfont: MistyDomoLight */@font-face {
+    font-family: 'MistyDomoLight';
+    src: url('MistyDomoLight.eot'); /* IE9 Compat Modes */
+    src: url('MistyDomoLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('MistyDomoLight.woff') format('woff'), /* Modern Browsers */
+         url('MistyDomoLight.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('MistyDomoLight.svg#MistyDomoLight') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

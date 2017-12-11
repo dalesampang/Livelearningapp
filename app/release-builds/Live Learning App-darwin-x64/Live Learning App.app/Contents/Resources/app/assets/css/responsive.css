@@ -1,0 +1,27 @@
+/* Medium Layout: 1280px */
+
+@media only screen and (min-width:1201px) and (max-width: 1400px) {
+	.main-menu ul li a{padding: 10px 15px;}
+	.dashboard-menu-wrapper .login-btn{margin-left: 15px;}
+}
+@media only screen and (min-width:992px) and (max-width: 1200px) {}
+
+
+/* Tablet layout: 768px */
+
+@media only screen and (min-width:768px) and (max-width: 991px) {}
+
+
+/* Tablet + Mobile layout */
+
+@media only screen and (max-width: 991px) {}
+
+
+/* Mobile Layout: 320px */
+
+@media only screen and (max-width:767px) {}
+
+
+/* Wide Mobile layout: 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
